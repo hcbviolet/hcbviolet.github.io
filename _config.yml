@@ -10,8 +10,8 @@ theme:
 
   # Header and footer text
   header_text: >
-     <h1>Talent show winner turned millionairess turned web developer</h1>
-     <p>Acquiring more skills at this very moment.</p>
+     <h1>Not a girl, not yet a woman in tech</h1>
+     <p>The beginning stages of an aspiring web developer.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.

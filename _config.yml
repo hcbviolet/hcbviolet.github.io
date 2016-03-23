@@ -15,7 +15,7 @@ theme:
      <p>The beginning stages of an aspiring web developer.</p>
   header_text_feature_image:
   footer_text:
-    
+
   # Icons
   rss: false
   email_address: hcbviolet@gmail.com # Full email address, e.g. "sam@example.com"
@@ -33,7 +33,7 @@ theme:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
-  tumblr: theslops
+  tumblr: 
   twitter: hannahcbtv
   wordpress:
   youtube:

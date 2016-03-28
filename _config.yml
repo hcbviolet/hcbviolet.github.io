@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 
 url: "http://hcbviolet.github.io" # the base hostname & protocol for your site
-baseurl: "/hcbviolet.github.io" # the subpath of your site, e.g. /blog/
+baseurl: "/portfolio/" # the subpath of your site, e.g. /blog/
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
@@ -33,7 +33,7 @@ theme:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
-  tumblr: 
+  tumblr:
   twitter: hannahcbtv
   wordpress:
   youtube:

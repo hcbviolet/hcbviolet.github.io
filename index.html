@@ -5,7 +5,7 @@ layout: default
 <div class="home">
 
   <div class="work">
-    <h2>My Work</h2>
+    <h2>Work</h2>
     {% for project in site.portfolio limit:4 %}
     <div class="project">
       <div class="project-thumb">
@@ -22,9 +22,9 @@ layout: default
   </div>
 
   <div class="posts">
-    <h2 class="post-header">My Posts</h2>
+    <h2 class="post-header">Posts</h2>
     <ul>
-      {% for post in paginator.posts %}
+      {% for post in paginator.posts limit: 3 %}
       <li class="post-teaser">
         <header>
           <h3>

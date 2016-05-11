@@ -8,7 +8,7 @@ short-description: A simple API tracking tool and report generator that can be u
 
 {:.center}
 ![]({{ site.baseurl }}/img/blocmetrics.png)<br>
-*See it on [Github](https://github.com/hcbviolet/blocmetrics). See it in [action](#).*
+*See it on [Github](https://github.com/hcbviolet/blocmetrics).*
 
 Blocmetrics is a simple analytics service that monitors activity on web applications, developed during the Rails portion of Bloc’s full-stack developer program.
 

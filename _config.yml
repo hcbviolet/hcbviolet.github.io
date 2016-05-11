@@ -12,7 +12,7 @@ theme:
   # Header and footer text
   header_text: >
      <h1>Not a girl, not yet a woman in tech</h1>
-     <p>The beginning stages of an aspiring web developer.</p>
+     <p>The beginning stages of a web developer.</p>
   header_text_feature_image:
   footer_text:
 
